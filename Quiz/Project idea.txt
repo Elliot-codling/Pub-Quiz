@@ -1,0 +1,8 @@
+QUIZ
+add questions
+remove questions
+score board
+
+
+CSV file format
+question num		question		options			answer
